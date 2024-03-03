@@ -100,6 +100,24 @@ a {
     color: #1f2937;
 }
 
+.quote-section {
+    background-color: #e5e7eb;
+    margin: 0 auto;
+    padding: 50px 225px;
+}
+
+.quote-section .quote {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote-section .author {
+    font-weight: bold;
+    text-align: right;
+}
+
 footer {
     color: #e5e7eb;
     background-color: #1f2937;
